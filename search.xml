@@ -4,12 +4,18 @@
   
     
     <entry>
-      <title>GoogleSheet Test</title>
+      <title>Guitar Practicing Visaulization</title>
       <link href="/ravessai.github.io/2020/05/06/GoogleSheet-Test/"/>
       <url>/ravessai.github.io/2020/05/06/GoogleSheet-Test/</url>
       
-        <content type="html"><![CDATA[<iframe width="843" height="520" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRa7a9BmRgVhQzsyfUa7lIEQ3BpcjiVe6pWZpxG_GMQPUNT6zUKvfi2-TV--WZNg_jB4HweYZkuk9Fn/pubchart?oid=877315464&amp;format=interactive"></iframe>]]></content>
+        <content type="html"><![CDATA[<iframe width="843" height="520" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRa7a9BmRgVhQzsyfUa7lIEQ3BpcjiVe6pWZpxG_GMQPUNT6zUKvfi2-TV--WZNg_jB4HweYZkuk9Fn/pubchart?oid=877315464&amp;format=interactive"></iframe><iframe width="843" height="520" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRa7a9BmRgVhQzsyfUa7lIEQ3BpcjiVe6pWZpxG_GMQPUNT6zUKvfi2-TV--WZNg_jB4HweYZkuk9Fn/pubchart?oid=1767189101&amp;format=interactive"></iframe>]]></content>
       
+      
+      <categories>
+          
+          <category> Music </category>
+          
+      </categories>
       
       
     </entry>
